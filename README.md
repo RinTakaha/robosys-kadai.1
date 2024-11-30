@@ -12,7 +12,7 @@
 
 0: J, 1: A, 2: B, 3: C, 4: D,5: E, 6: F, 7: G, 8: H, 9: I
 
-### インストール方法
+## インストール方法
 1.以下のコマンドからインストールしてください。
 
 git clone https://github.com/RinTakaha/robosys-kadai.1.git
@@ -21,11 +21,11 @@ git clone https://github.com/RinTakaha/robosys-kadai.1.git
 
 cd henkan.py
 
-3. 必要に応じて実行権限を付与します。
+ 必要に応じて実行権限を付与します。
 
 chmod +x arawareta
 
-####使用例
+###使用例
 
  1.以下のコマンドでデータを渡してプログラムを実行します。
  入力例
@@ -35,7 +35,7 @@ echo "1234567890" | python3 arawareta
  出力例：
  ABCDEFGHIJが現れた!!
 
-#####ライセンス
+##ライセンス
 このプログラムは BSD-3-Clause ライセンス のもとで公開されています。
 詳細は LICENSE ファイルをご参照ください。
 
