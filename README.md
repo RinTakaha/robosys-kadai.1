@@ -28,10 +28,12 @@ chmod +x arawareta
 ## 使用例
 
  1.以下のコマンドでデータを渡してプログラムを実行します。
+
  入力例
 echo "1234567890" | python3 arawareta
 
 2.結果の確認
+
  出力例：
  ABCDEFGHIJが現れた!!
 
