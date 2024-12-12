@@ -32,7 +32,8 @@ $ echo "1234567890" | python3 arawareta.py
 ```bash
  ABCDEFGHIJが現れた!!
 ```
-
+##使用できる環境
+python3
 ## ライセンス
 このプログラムは BSD-3-Clause ライセンス のもとで公開されています。
 詳細は LICENSE ファイルをご参照ください。
