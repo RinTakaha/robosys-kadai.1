@@ -33,8 +33,7 @@ $ echo "1234567890" | python3 arawareta.py
  ABCDEFGHIJが現れた!!
 ```
 
-##使用できる環境
-
+## 使用できる環境
 python3.7 ~ 3.10
 
 ## ライセンス
