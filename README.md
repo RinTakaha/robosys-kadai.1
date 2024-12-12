@@ -19,23 +19,23 @@ git clone https://github.com/RinTakaha/robosys-kadai.1.git
 
 2.プロジェクトフォルダに移動します。
 
-cd henkan.py
+'''cd henkan.py'''
 
 3.実行権限を付与します。
 
-chmod +x arawareta
+'''chmod +x arawareta'''
 
 ## 使用例
 
  1.以下のコマンドでデータを渡してプログラムを実行します。
 
  入力例
-echo "1234567890" | python3 arawareta
+'''echo "1234567890" | python3 arawareta'''
 
 2.結果の確認
 
  出力例：
- ABCDEFGHIJが現れた!!
+'''ABCDEFGHIJが現れた!!'''
 
 ## ライセンス
 このプログラムは BSD-3-Clause ライセンス のもとで公開されています。
