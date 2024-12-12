@@ -1,6 +1,6 @@
 # robosys-kadai.1
 このリポジトリーは、千葉工業大学未来ロボティクス学科の
-ロボットシステム工学課題１で使用したツールです。
+ロボットシステム工学課題１で使用しました。
 
 ## 概要
 このプログラムは、標準入力から受け取った文字列中の数字を
@@ -21,7 +21,7 @@ git clone https://github.com/RinTakaha/robosys-kadai.1.git
 
 cd henkan.py
 
-3.必要に応じて実行権限を付与します。
+3.実行権限を付与します。
 
 chmod +x arawareta
 
