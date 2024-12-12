@@ -16,7 +16,7 @@
 ```bash 
 $ git clone https://github.com/RinTakaha/robosys-kadai.1.git #ここからインストールしてください。
 $ cd henkan #henkanに入る
-$ chmod +x arawareta #実行権限を付与します
+$ chmod +x arawareta.py#実行権限を付与します
 ```
 ## 使用例
 
@@ -24,7 +24,7 @@ $ chmod +x arawareta #実行権限を付与します
 
  入力例
 ```bash
-$ echo "1234567890" | python3 arawareta
+$ echo "1234567890" | python3 arawareta.py
 ```
 2.結果の確認
 
