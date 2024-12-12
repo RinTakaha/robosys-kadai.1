@@ -12,11 +12,11 @@
 
 0: J, 1: A, 2: B, 3: C, 4: D,5: E, 6: F, 7: G, 8: H, 9: I
 
-## インストール方法
+## リポジトリをクローンする方法
 ```bash 
-$ git clone https://github.com/RinTakaha/robosys-kadai.1.git #ここからインストールしてください。
+$ git clone https://github.com/RinTakaha/robosys-kadai.1.git #ここからリポジトリをクローンする
 $ cd henkan #henkanに入る
-$ chmod +x arawareta.py #実行権限を付与します
+$ chmod +x arawareta.py #実行権限を付与する
 ```
 ## 使用例
 
