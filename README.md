@@ -29,7 +29,7 @@ $ echo "1234567890" | python3 arawareta.py
 
  出力例
 ```bash
- ABCDEFGHIJが現れた!!
+ ABCDEFGHIJが現れた!!!
 ```
 
 ## 使用できる環境
