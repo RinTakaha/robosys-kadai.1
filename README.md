@@ -15,7 +15,6 @@
 ## リポジトリをクローンする方法
 ```bash 
 $ git clone https://github.com/RinTakaha/robosys-kadai.1.git #ここからリポジトリをクローンする
-$ cd henkan #henkanに入る
 $ chmod +x arawareta.py #実行権限を付与する
 ```
 ## 使用例

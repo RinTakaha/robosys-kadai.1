@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: All test
-      run: echo "1234567890" | python3 henkan/arawareta.py
+      run: echo "1234567890" | python3 arawareta.py
 
 
 
